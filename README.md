@@ -3,4 +3,6 @@ Practising my JavaScript skills and decided to create a random password generato
 
 Password is 12 characters long and is a random mix of numbers, upper and lowercase letters and special charachters based on the Ascii table between number 33 and 126.
 
+Check out deployed site https://claires-random-password-generator.netlify.app/
+
 
