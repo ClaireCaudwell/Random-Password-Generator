@@ -24,5 +24,6 @@ const generateRandomPassword = () => {
 };
 
 const clearPassword = () => {
-    location.reload();
+    const clearString = "";
+    document.getElementById("randomPassword").innerText = clearString;
 };
